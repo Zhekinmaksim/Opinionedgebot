@@ -1,0 +1,11 @@
+[
+  {
+    "name": "BTC 100k by June",
+    "pm_yes": "POLYMARKET_YES_TOKEN_ID",
+    "pm_no": "POLYMARKET_NO_TOKEN_ID",
+    "op_yes": "OPINION_YES_TOKEN_ID",
+    "op_no": "OPINION_NO_TOKEN_ID",
+    "min_edge": 0.02,
+    "max_size": 50
+  }
+]
